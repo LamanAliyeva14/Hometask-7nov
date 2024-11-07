@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F4C8B137-2D93-497E-8B66-16E4000FBB39}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Casting-Implicit-Explicit-Operators-Generic/Celsius.cs">
+    <Files>
+      <File FileName="Casting-Implicit-Explicit-Operators-Generic/Program.cs" Line="9" Column="1" />
+      <File FileName="Casting-Implicit-Explicit-Operators-Generic/Celcius.cs" Line="7" Column="15" />
+      <File FileName="Casting-Implicit-Explicit-Operators-Generic/Fahrenheit.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Casting-Implicit-Explicit-Operators-Generic" expanded="True">
+            <Node name="Casting-Implicit-Explicit-Operators-Generic">
+              <Node name="Celsius.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Casting-Implicit-Explicit-Operators-Generic FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
